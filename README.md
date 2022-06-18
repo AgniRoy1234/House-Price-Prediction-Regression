@@ -4,4 +4,4 @@ Before buying a house, there are many factors a potential house buyer considers.
 Dataset
 This dataset has 9 columns where the target variable is price. The independent variables are factors like number of bathrooms, total sqft area, type of location etc
 
-The models used here were LinearRegression,DecisionTreeRegression,KNNRegression and GBMRegression
+The models used here were LinearRegression,DecisionTreeRegression,KNNRegression and RandomForestRegression
